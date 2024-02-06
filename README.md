@@ -1,6 +1,6 @@
 Wanna know more about me😊
 
-check out my portfolio !!!
+check out my portfolio !!! 🙌 
 
 click here  👉 https://vinnu411.github.io/vineetaportfolio/ 👈
 
