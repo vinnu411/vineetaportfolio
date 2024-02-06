@@ -2,7 +2,7 @@ Wanna know more about me😊
 
 check out my portfolio !!!
 
-click here  👉 https://vinnu411.github.io/vineetaportfolio/
+click here  👉 https://vinnu411.github.io/vineetaportfolio/ 👈
 
  Designed and generated a personal portfolio website to showcase skills projects and professional
 background. 
