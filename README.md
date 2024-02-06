@@ -9,7 +9,7 @@ background.
 
 🌟 Utilized HTML and CSS to create a responsive and visually appealing website.
 
- Ensured cross-browser compatibility and responsiveness for seamless access on various devices.
+🌟 Ensured cross-browser compatibility and responsiveness for seamless access on various devices.
 
  Integrated interactive elements ,such as navigation menus and other relevant features.
 Hosted this website on git
