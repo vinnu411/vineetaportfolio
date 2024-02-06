@@ -13,4 +13,4 @@ background.
 
 🌟 Integrated interactive elements ,such as navigation menus and other relevant features.
 
-   Hosted this website on git
+🌟 Hosted this website on git
